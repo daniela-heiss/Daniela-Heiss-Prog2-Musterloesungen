@@ -18,3 +18,6 @@ Hausaufgaben:
 - u07a Funktionen zu Brüchen, Referenzen und Bubblesort
 - u08g Operatoren cZeigeskala
 - u09c Subskriptionsoperator Jukebox
+
+Wir sind sehr bemüht, euch fehlerfreie Lösungen vorzuschlagen, können dies jedoch natürlich nicht garantieren. 
+Bei Unklarheiten fragt lieber nochmal nach.
