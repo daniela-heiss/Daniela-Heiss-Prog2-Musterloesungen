@@ -9,6 +9,7 @@ Wöchentlicher Upload der Musterlösungen von letzter Woche, besprochen im Tutor
 - u06a Verkettete Liste, Schachläufer
 - u08h Operatoren zur Klasse cKompRat
 - u09a Autoinkement und -dekrement, Subskript-Operatoren Primzahlen
+- u10b Typtransformation, geometrische Figuren
 
 Hausaufgaben:
 - u02b Klasse Funkmasten
@@ -18,6 +19,7 @@ Hausaufgaben:
 - u07a Funktionen zu Brüchen, Referenzen und Bubblesort
 - u08g Operatoren cZeigeskala
 - u09c Subskriptionsoperator Jukebox
+
 
 Wir sind sehr bemüht, euch fehlerfreie Lösungen vorzuschlagen, können dies jedoch natürlich nicht garantieren. 
 Bei Unklarheiten fragt lieber nochmal nach.
